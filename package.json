@@ -13,7 +13,8 @@
     "hono": "^3"
   },
   "ampt": {
-    "app": "hono"
+    "app": "scorecard",
+    "org": "vaster"
   },
   "files": [
     "*"
